@@ -437,55 +437,55 @@ button:hover, .form-container .btn:hover {
 /*Media rules for paragraph font size for different screen sizes*/
 @media screen and (max-width: 527px) {
     p {
-        font-size: 3.75vw;
+        font-size: 3.65vw;
     }
 }
 
 @media screen and (min-width: 528px) and (max-width: 660px) {
     p {
-        font-size: 3.5vw;
+        font-size: 3.4vw;
     }
 }
 
 @media screen and (min-width: 661px) and (max-width: 799px) {
     p {
-        font-size: 2.75vw;
+        font-size: 2.65vw;
     }
 }
 
 @media screen and (min-width: 800px) and (max-width: 924px) {
     p {
-        font-size: 2.5vw;
+        font-size: 2.4vw;
     }
 }
 
 @media screen and (min-width: 925px) and (max-width: 1050px) {
     p {
-        font-size: 2.25vw;
+        font-size: 2.15vw;
     }
 }
 
 @media screen and (min-width: 1051px) and (max-width: 1310px) {
     p {
-        font-size: 2vw;
+        font-size: 1.9vw;
     } 
 }
 
 @media screen and (min-width: 1311px) and (max-width: 1535px) {
     p {
-        font-size: 1.75vw;
+        font-size: 1.65vw;
     }
 }
 
 @media screen and (min-width: 1536px) and (max-width: 2269px) {
     p {
-        font-size: 1.5vw;
+        font-size: 1.4vw;
     }
 }
 
 @media screen and (min-width: 2270px) {
     p {
-        font-size: 1.35vw;
+        font-size: 1.25vw;
     }
 }
 
